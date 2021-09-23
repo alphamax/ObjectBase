@@ -1,0 +1,6 @@
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Tests\obj\Debug\net5.0\ObjectBase.Tests.csproj.AssemblyReference.cache
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Tests\obj\Debug\net5.0\ObjectBase.Tests.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Tests\obj\Debug\net5.0\ObjectBase.Tests.AssemblyInfoInputs.cache
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Tests\obj\Debug\net5.0\ObjectBase.Tests.AssemblyInfo.cs
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Tests\obj\Debug\net5.0\ObjectBase.Tests.csproj.CoreCompileInputs.cache

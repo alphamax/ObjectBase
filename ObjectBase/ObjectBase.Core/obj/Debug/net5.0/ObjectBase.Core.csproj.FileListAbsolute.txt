@@ -1,0 +1,5 @@
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Core\obj\Debug\net5.0\ObjectBase.Core.csproj.AssemblyReference.cache
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Core\obj\Debug\net5.0\ObjectBase.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Core\obj\Debug\net5.0\ObjectBase.Core.AssemblyInfoInputs.cache
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Core\obj\Debug\net5.0\ObjectBase.Core.AssemblyInfo.cs
+G:\Projects\Personnal\ObjectBase\ObjectBase\ObjectBase.Core\obj\Debug\net5.0\ObjectBase.Core.csproj.CoreCompileInputs.cache
